@@ -9,8 +9,7 @@ This is as simple as adjusting the values of a few environment variables, yet it
 Therefore, this repository provides the fish script [`switch-cuda.fish`](switch-cuda.fish), which adjusts the environment to
 use a specific version of CUDA **for the current fish session**.
 
-**Notice:** [`switch-cuda.fish`](switch-cuda.fish) has been written for and tested on Ubuntu 16.04, but is easily adapted
-for other platforms.
+**Notice:** [`switch-cuda.fish`](switch-cuda.fish) has been written for and tested on Ubuntu 20.04 and `fish` version 3.2.2.
 
 
 Usage
